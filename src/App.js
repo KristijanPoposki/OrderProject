@@ -1,10 +1,10 @@
 import React from 'react';
-import SelfOrderingSystem from './SelfOrderingSystem'; // Import your component
+import SelfOrderingSystem from './SelfOrderingSystem';
 
 function App() {
   return (
     <div className="App">
-      <SelfOrderingSystem /> 
+      <SelfOrderingSystem />
     </div>
   );
 }
