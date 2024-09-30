@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import CarouselComponent from './CarouselComponent';
+import CarouselComponent from './carouselComponents';
 import { localization } from './localization';
 import { requestTypes } from './requestTypes';
 import useGeolocation from './useGeolocation';
